@@ -1,0 +1,10 @@
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\bin\Debug\Form_BDD.exe.config
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\bin\Debug\Form_BDD.exe
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\bin\Debug\Form_BDD.pdb
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\obj\Debug\Form_BDD.csproj.AssemblyReference.cache
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\obj\Debug\Form_BDD.Form1.resources
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\obj\Debug\Form_BDD.Properties.Resources.resources
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\obj\Debug\Form_BDD.csproj.GenerateResource.cache
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\obj\Debug\Form_BDD.csproj.CoreCompileInputs.cache
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\obj\Debug\Form_BDD.exe
+D:\Universidad\En curso\Base de Datos I\Repo_formulario\Form_TP_Bdd\Form_BDD\Form_BDD\obj\Debug\Form_BDD.pdb
